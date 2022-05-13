@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Audio_Module)(type KiCad)(uri D:/Programme/KiCad/share/kicad/demos/video/libs/Audio_Module.pretty)(options "")(descr "")(disabled))
+  (lib (name Button_Switch_Keyboard)(type KiCad)(uri D:/Programme/KiCad/share/kicad/demos/video/libs/Button_Switch_Keyboard.pretty)(options "")(descr "")(disabled))
+)

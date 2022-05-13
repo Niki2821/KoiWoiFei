@@ -1,0 +1,25 @@
+Drill report for /home/markus/Dokumente/PCBs/PCB 2.0/Literkarte Pong.kicad_pcb
+Created on Fr 08 Okt 2021 16:36:33 CEST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Literkarte Pong-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,90mm  0,035"  (2 holes)  (with 2 slots)
+    T2  1,00mm  0,039"  (60 holes)
+    T3  1,02mm  0,040"  (12 holes)
+
+    Total plated holes count 74
+
+
+Drill file 'Literkarte Pong-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1,10mm  0,043"  (5 holes)
+
+    Total unplated holes count 5

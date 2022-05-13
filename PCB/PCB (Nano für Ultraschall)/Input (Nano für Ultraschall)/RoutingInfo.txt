@@ -1,0 +1,5 @@
+Unter dem folgenden Link gibt es eine Beschreibung wie man in
+KiCAD 5 einen externen Autorouter einbinden kann.
+
+https://techexplorations.com/blog/kicad/blog-kicad-5-how-to-use-the-freerouting-autorouter
+

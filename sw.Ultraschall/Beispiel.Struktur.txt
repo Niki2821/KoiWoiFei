@@ -1,0 +1,24 @@
+
+LOOP {
+
+// Messen
+SensorLesen1()
+
+SensorLesen2()
+
+SensorLesen3()
+
+SensorLesen4()
+
+// LED Ausgabe
+SetzeLED-Farben()
+RefeshLED()
+
+// Serielle Daten
+Wenn(SerielleDatenDa) {
+   Einlesen und Ausgeben der vorhanden Daten bis Zeilenende()
+}
+Ausgabe unserer Werte()
+
+
+} // LOOP END
